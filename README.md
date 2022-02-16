@@ -1,4 +1,4 @@
 ### ADV-C67-Solución del proyecto
-##Apps
+Apps
 
 Texto en inglés: ADV-C62v2
